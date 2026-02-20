@@ -17,7 +17,7 @@ A Phaser 3 action survival game inspired by Vampire Survivors. Fight endless wav
   - **Chain Blast** — Enemies explode on death, damaging nearby foes
   - **Long Reach** — Bigger attack range
   - **XP Magnet** — Wider XP pickup radius
-- Survive as long as you can. Gold earned carries across runs.
+- Survive as long as you can.
 
 ## Controls
 
