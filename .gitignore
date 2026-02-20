@@ -1,0 +1,32 @@
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (in case added later)
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+.cache/
