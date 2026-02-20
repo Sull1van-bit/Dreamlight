@@ -6,7 +6,7 @@ import { LevelUp } from './scenes/LevelUp.js';
 
 const config = {
     type: Phaser.AUTO,
-    title: 'Lightstream',
+    title: 'Dreamlight',
     description: '',
     parent: 'game-container',
     width: 1280,
